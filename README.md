@@ -9,7 +9,7 @@
 - **Notifications**: React Hot Toast
 
 ### Features
-- Secure JWT authentication flow
+
 - Responsive UI with mobile-first approach
 - Interactive artifact cards with image carousel
 - Dynamic search functionality
@@ -28,8 +28,6 @@
 
 ### Key Features
 - RESTful API with proper status codes
-- JWT authentication middleware
-- Advanced search/pagination system
 - Atomic like counter updates
 - Role-based access control
 - Rate limiting (100 requests/15min)
